@@ -44,7 +44,7 @@ googlemaps==4.10.0
 gptcache==0.1.22
 greenlet==2.0.2
 guardrails==2.0.0
-gunicorn==20.1.0
+gunicorn==22.0.0
 HTMLParser==0.0.2
 hypothesis==6.75.2
 idna_ssl==1.1.0
